@@ -5,6 +5,6 @@ header {
     background-color: #8B4513; /* SaddleBrown or pick your favorite shade */
     color: white; /* Optional: Makes text easier to read */
   }
-  .h1{
-    text-decoration-color: gold;
+  .mark{
+    background-color: #8B4513;
   }
